@@ -1,4 +1,16 @@
-# TailScript
+<p align="center">
+    <img src="tail_icon.ico" alt="TailScript logo" width="140" height="140" />
+</p>
+
+<h1 align="center">TailScript</h1>
+
+<p align="center">
+    <a href="https://github.com/DaRealTrueBlue/TailScript/actions"><img alt="Build" src="https://img.shields.io/github/actions/workflow/status/DaRealTrueBlue/TailScript/ci.yml?style=flat-square" /></a>
+    <a href="https://github.com/DaRealTrueBlue/TailScript/releases"><img alt="Release" src="https://img.shields.io/github/v/release/DaRealTrueBlue/TailScript?style=flat-square" /></a>
+    <a href="https://github.com/DaRealTrueBlue/TailScript/issues"><img alt="Issues" src="https://img.shields.io/github/issues/DaRealTrueBlue/TailScript?style=flat-square" /></a>
+    <a href="https://github.com/DaRealTrueBlue/TailScript/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/DaRealTrueBlue/TailScript?style=flat-square" /></a>
+    <a href="https://github.com/DaRealTrueBlue/TailScript/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/DaRealTrueBlue/TailScript?style=flat-square" /></a>
+</p>
 
 **A grandma-friendly programming language that anyone can understand!**
 
